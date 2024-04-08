@@ -1,0 +1,56 @@
+@font-face {
+    font-family: "luci";
+    src: url("fonts/lucidaconsole.ttf");
+  }
+  
+  @font-face {
+    font-family: "lucky";
+    src: url("fonts/LuckiestGuy-Regular.ttf");
+  }
+  
+  html,
+  body {
+    background-color: rgb(12, 12, 12);
+    margin: 0;
+    height: 100%;
+    overflow-x: hidden;
+  }
+
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .dv{
+    width: 20%;
+  }
+
+  .accounts{
+    width: 70%;
+  }
+  
+  .emp{
+    width: 20%;
+  }
+  
+  .trio{
+    width: 50%;
+  }
+
+  .end{
+    width: 20%;
+  }
+  .introduction{
+    font-size: 2em;
+    text-align: center;
+    font-family: luci;
+    color: aliceblue;
+  }
+
+  .yapping_about_bullshit{
+    text-align: center;
+    font-family: luci;
+    color: aliceblue;
+  }
+  
